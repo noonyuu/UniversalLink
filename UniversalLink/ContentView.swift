@@ -3,7 +3,7 @@ import SwiftUI
 import UIKit
 #endif
 
-private let webURL = URL(string: "https://noonyuu.github.io/universal-link-web/")!
+private let webURL = URL(string: "https://universal-link.noonyuu.com/")!
 
 struct ContentView: View {
     @Binding var receivedURL: URL?

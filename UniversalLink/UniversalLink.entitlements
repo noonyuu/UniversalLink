@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:noonyuu.github.io/universal-link-web</string>
+		<string>applinks:universal-link.noonyuu.com</string>
 	</array>
 </dict>
 </plist>
